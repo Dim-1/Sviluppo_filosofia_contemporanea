@@ -1,0 +1,5 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\vspace {-\cftbeforepartskip }
+\contentsline {chapter}{\numberline {1}{Critica ad Hegel.}}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}{La realtà per Hegel e le critiche ad essa.}}{2}{section.1.1}%
