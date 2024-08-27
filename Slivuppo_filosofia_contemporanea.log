@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  10 AUG 2024 23:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  27 AUG 2024 17:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -707,12 +707,7 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
  [3]) [4]
-(./Slivuppo_filosofia_contemporanea.aux
-
-Package mparhack Warning: Marginpars may have changed.
-(mparhack)                Rerun to get them right.
-
-)
+(./Slivuppo_filosofia_contemporanea.aux)
 Package rerunfilecheck Info: File `Slivuppo_filosofia_contemporanea.out' has no
 t changed.
 (rerunfilecheck)             Checksum: 1E8AA8F67BE0F90F5D1C2A3EAAED443D;904.
@@ -731,7 +726,7 @@ exmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/euler/eurb10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/nowacki/iwona/
 iwonar.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on Slivuppo_filosofia_contemporanea.pdf (5 pages, 69183 bytes).
+Output written on Slivuppo_filosofia_contemporanea.pdf (5 pages, 69270 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
