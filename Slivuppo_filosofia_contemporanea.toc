@@ -6,3 +6,4 @@
 \contentsline {section}{\numberline {1.2}{L'ultimo Schelling}}{2}{section.1.2}%
 \contentsline {section}{\numberline {1.3}{Feuerbach e la critica materialistica}}{3}{section.1.3}%
 \contentsline {section}{\numberline {1.4}{Kierkegaard e la critica esistenziale all'idealismo}}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}{Critica politica all'idealismo: sinistra hegeliana e Marx}}{6}{section.1.5}%
