@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  4 SEP 2024 22:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  5 SEP 2024 22:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -745,18 +745,18 @@ Overfull \hbox (8.5415pt too wide) in paragraph at lines 84--84
 
 [10] [11] [12] [13] [14]) (./Capitoli/cap2.tex
 Capitolo 3.
-[15]) [16
+[15] [16
 
-] (./Slivuppo_filosofia_contemporanea.aux)
+]) [17] (./Slivuppo_filosofia_contemporanea.aux)
 Package rerunfilecheck Info: File `Slivuppo_filosofia_contemporanea.out' has no
 t changed.
 (rerunfilecheck)             Checksum: ECD233802579234E7DEA6CCF6AD05EAA;2724.
  ) 
 Here is how much of TeX's memory you used:
- 16911 strings out of 476091
- 309001 string characters out of 5794081
+ 16913 strings out of 476091
+ 309022 string characters out of 5794081
  1864330 words of memory out of 5000000
- 36990 multiletter control sequences out of 15000+600000
+ 36991 multiletter control sequences out of 15000+600000
  590673 words of font info for 123 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,24n,121p,1269b,718s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -768,11 +768,11 @@ ic/amsfonts/euler/eurb10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/nowacki/iwona/iwonar
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on Slivuppo_filosofia_contemporanea.pdf (17 pages, 136059 bytes)
+Output written on Slivuppo_filosofia_contemporanea.pdf (18 pages, 139229 bytes)
 .
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 141 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
+ 179 PDF objects out of 1000 (max. 8388607)
+ 144 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
  19017 words of extra memory for PDF output out of 20736 (max. 10000000)
 
