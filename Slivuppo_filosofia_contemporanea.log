@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  10 SEP 2024 20:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  12 SEP 2024 06:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -751,16 +751,16 @@ Capitolo 3.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
- [17] [18]) [19] (./Slivuppo_filosofia_contemporanea.aux)
+ [17] [18] [19] [20]) [21] (./Slivuppo_filosofia_contemporanea.aux)
 Package rerunfilecheck Info: File `Slivuppo_filosofia_contemporanea.out' has no
 t changed.
-(rerunfilecheck)             Checksum: 0E2A87D3BBA66D9AB15E9CE0EDE49F5A;3787.
+(rerunfilecheck)             Checksum: 97DF3EDAB2D7C3C64899F21E7C3BEF27;4728.
  ) 
 Here is how much of TeX's memory you used:
- 16934 strings out of 476091
- 309344 string characters out of 5794081
+ 16944 strings out of 476091
+ 309488 string characters out of 5794081
  1864330 words of memory out of 5000000
- 37004 multiletter control sequences out of 15000+600000
+ 37009 multiletter control sequences out of 15000+600000
  596444 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,24n,121p,1269b,718s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -773,11 +773,11 @@ fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/nowacki/iwona/iwonab
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/nowacki/iwona/iwonar.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on Slivuppo_filosofia_contemporanea.pdf (20 pages, 170975 bytes)
+Output written on Slivuppo_filosofia_contemporanea.pdf (22 pages, 176366 bytes)
 .
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 179 compressed objects within 2 object streams
- 40 named destinations out of 1000 (max. 500000)
- 20073 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 244 PDF objects out of 1000 (max. 8388607)
+ 201 compressed objects within 3 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 20097 words of extra memory for PDF output out of 20736 (max. 10000000)
 
