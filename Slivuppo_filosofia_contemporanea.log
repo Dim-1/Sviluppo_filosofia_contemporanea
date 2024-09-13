@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  12 SEP 2024 06:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  13 SEP 2024 06:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -689,7 +689,7 @@ Overfull \hbox (28.17589pt too wide) in paragraph at lines 9--9
  []
 
 
-Overfull \hbox (17.38779pt too wide) in paragraph at lines 10--10
+Overfull \hbox (16.78778pt too wide) in paragraph at lines 10--10
  [][] []\T1/pplj/m/n/12 L'alternativa me-ta-fi-si-ca al-l'i-dea-li-smo: Scho-pe
 -n-hauer []  
  []
@@ -698,7 +698,7 @@ Overfull \hbox (17.38779pt too wide) in paragraph at lines 10--10
 \tf@toc=\write4
 \openout4 = `Slivuppo_filosofia_contemporanea.toc'.
 
- (./Capitoli/cap0.tex
+ (./Capitoli/cap1.tex
 Capitolo 1.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
@@ -715,7 +715,7 @@ Overfull \hbox (50.93767pt too wide) has occurred while \output is active
  []|[]|
  []
 
-[3]) (./Capitoli/cap1.tex
+[3]) (./Capitoli/cap2.tex
 Capitolo 2.
 
 Overfull \hbox (50.93767pt too wide) has occurred while \output is active
@@ -743,7 +743,7 @@ Overfull \hbox (8.5415pt too wide) in paragraph at lines 84--84
 |[]\T1/iwona/m/sc/17.28/80ls l'alternativa me-ta-fi-si-ca al-l'i-dea-li-smo: 
  []
 
-[10] [11] [12] [13] [14]) (./Capitoli/cap2.tex
+[10] [11] [12] [13] [14]) (./Capitoli/cap3.tex
 Capitolo 3.
 [15] [16
 
@@ -759,11 +759,11 @@ t changed.
 Here is how much of TeX's memory you used:
  16944 strings out of 476091
  309488 string characters out of 5794081
- 1864330 words of memory out of 5000000
+ 1865330 words of memory out of 5000000
  37009 multiletter control sequences out of 15000+600000
  596444 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,24n,121p,1269b,718s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,23n,121p,1269b,718s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/iwona/ec-iwona.enc}{/usr/share
 /texlive/texmf-dist/fonts/enc/dvips/iwona/ec-iwona-sc.enc}{/usr/share/texlive/t
 exmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type
@@ -773,7 +773,7 @@ fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/nowacki/iwona/iwonab
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/nowacki/iwona/iwonar.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on Slivuppo_filosofia_contemporanea.pdf (22 pages, 176366 bytes)
+Output written on Slivuppo_filosofia_contemporanea.pdf (22 pages, 180111 bytes)
 .
 PDF statistics:
  244 PDF objects out of 1000 (max. 8388607)
