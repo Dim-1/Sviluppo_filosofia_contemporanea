@@ -17,3 +17,4 @@
 \contentsline {subsection}{\numberline {3.2.4}{La riduzione della razionalità a volontà}}{20}{subsection.3.2.4}%
 \contentsline {subsection}{\numberline {3.2.5}{Oltre il nichilismo}}{20}{subsection.3.2.5}%
 \contentsline {subsection}{\numberline {3.2.6}{La critica del soggetto e la trasformazione del trascendentale}}{21}{subsection.3.2.6}%
+\contentsline {chapter}{\numberline {4}{Lo storicismo tedesco}}{22}{chapter.4}%
