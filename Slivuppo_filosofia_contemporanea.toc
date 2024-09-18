@@ -17,4 +17,6 @@
 \contentsline {subsection}{\numberline {3.2.4}{La riduzione della razionalità a volontà}}{20}{subsection.3.2.4}%
 \contentsline {subsection}{\numberline {3.2.5}{Oltre il nichilismo}}{20}{subsection.3.2.5}%
 \contentsline {subsection}{\numberline {3.2.6}{La critica del soggetto e la trasformazione del trascendentale}}{21}{subsection.3.2.6}%
-\contentsline {chapter}{\numberline {4}{Lo storicismo tedesco}}{22}{chapter.4}%
+\contentsline {chapter}{\numberline {4}{Lo storicismo tedesco}}{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}{Dilthey e L'introduzione alle scienze dello spirito (1883)}}{24}{section.4.1}%
+\contentsline {section}{\numberline {4.2}{Dilthey e gli sviluppi successivi}}{24}{section.4.2}%

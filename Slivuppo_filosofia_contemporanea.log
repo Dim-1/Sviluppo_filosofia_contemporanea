@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  17 SEP 2024 21:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  18 SEP 2024 22:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -694,6 +694,12 @@ Overfull \hbox (16.78778pt too wide) in paragraph at lines 10--10
 -n-hauer []  
  []
 
+
+Overfull \hbox (33.49187pt too wide) in paragraph at lines 21--21
+ [][] []\T1/pplj/m/n/12 Dilthey e L'in-tro-du-zio-ne al-le scien-ze del-lo spi-
+ri-to (1883) []  
+ []
+
 )
 \tf@toc=\write4
 \openout4 = `Slivuppo_filosofia_contemporanea.toc'.
@@ -751,23 +757,28 @@ Capitolo 3.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
- [17] [18] [19] [20]) (./Capitoli/cap4.tex
+ [17] [18] [19] [20] [21]) (./Capitoli/cap4.tex
 Capitolo 4.
-[21]) [22
+[22] [23
 
-] (./Slivuppo_filosofia_contemporanea.aux)
+]
+Overfull \hbox (9.26157pt too wide) has occurred while \output is active
+ []|[]|
+ []
+
+[24]) [25] (./Slivuppo_filosofia_contemporanea.aux)
 Package rerunfilecheck Info: File `Slivuppo_filosofia_contemporanea.out' has no
 t changed.
-(rerunfilecheck)             Checksum: 992E6FB332B04AED24C729F72AA468B2;4895.
+(rerunfilecheck)             Checksum: 63C1D77C280D77B7748CFD483EA5FAD4;5545.
  ) 
 Here is how much of TeX's memory you used:
- 16954 strings out of 476091
- 309640 string characters out of 5794081
+ 16964 strings out of 476091
+ 309751 string characters out of 5794081
  1865330 words of memory out of 5000000
- 37014 multiletter control sequences out of 15000+600000
+ 37019 multiletter control sequences out of 15000+600000
  596444 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,23n,126p,1269b,720s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,24n,126p,1269b,720s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/iwona/ec-iwona.enc}{/usr/share
 /texlive/texmf-dist/fonts/enc/dvips/iwona/ec-iwona-sc.enc}{/usr/share/texlive/t
 exmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type
@@ -778,11 +789,11 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/nowacki/iwona/iwonab.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/nowacki/iwona/iwonar.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on Slivuppo_filosofia_contemporanea.pdf (23 pages, 198329 bytes)
+Output written on Slivuppo_filosofia_contemporanea.pdf (26 pages, 205296 bytes)
 .
 PDF statistics:
- 258 PDF objects out of 1000 (max. 8388607)
- 212 compressed objects within 3 object streams
- 47 named destinations out of 1000 (max. 500000)
- 20105 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 282 PDF objects out of 1000 (max. 8388607)
+ 233 compressed objects within 3 object streams
+ 52 named destinations out of 1000 (max. 500000)
+ 20121 words of extra memory for PDF output out of 20736 (max. 10000000)
 
