@@ -21,3 +21,4 @@
 \contentsline {section}{\numberline {4.1}{Dilthey e L'introduzione alle scienze dello spirito (1883)}}{24}{section.4.1}%
 \contentsline {section}{\numberline {4.2}{Dilthey e gli sviluppi successivi}}{24}{section.4.2}%
 \contentsline {section}{\numberline {4.3}{Weber e la crisi della totalità}}{25}{section.4.3}%
+\contentsline {section}{\numberline {4.4}{Weber e la razionalità formale}}{27}{section.4.4}%
