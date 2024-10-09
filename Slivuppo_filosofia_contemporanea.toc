@@ -6,20 +6,20 @@
 \contentsline {section}{\numberline {2.1}{L'ultimo Schelling}}{5}{section.2.1}%
 \contentsline {section}{\numberline {2.2}{Feuerbach e la critica materialistica}}{6}{section.2.2}%
 \contentsline {section}{\numberline {2.3}{Kierkegaard e la critica esistenziale all'idealismo}}{7}{section.2.3}%
-\contentsline {section}{\numberline {2.4}{Critica politica all'idealismo: sinistra hegeliana e Marx}}{9}{section.2.4}%
+\contentsline {section}{\numberline {2.4}{Critica politica all'idealismo: sinistra hegeliana e Marx}}{10}{section.2.4}%
 \contentsline {section}{\numberline {2.5}{L'alternativa metafisica all'idealismo: Schopenhauer}}{11}{section.2.5}%
-\contentsline {chapter}{\numberline {3}{Nietzsche e le conseguenze radicali della dissoluzione dell'idealismo}}{16}{chapter.3}%
-\contentsline {section}{\numberline {3.1}{Nichilismo ed eterno ritorno}}{16}{section.3.1}%
-\contentsline {section}{\numberline {3.2}{La volontà di potenza}}{17}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}{La critica della conoscenza}}{17}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}{Congedo della metafisica}}{18}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}{La conoscenza come produzione linguistica e interpretazione}}{19}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}{La riduzione della razionalità a volontà}}{20}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}{Oltre il nichilismo}}{20}{subsection.3.2.5}%
-\contentsline {subsection}{\numberline {3.2.6}{La critica del soggetto e la trasformazione del trascendentale}}{21}{subsection.3.2.6}%
-\contentsline {chapter}{\numberline {4}{Lo storicismo tedesco}}{23}{chapter.4}%
-\contentsline {section}{\numberline {4.1}{Dilthey e L'introduzione alle scienze dello spirito (1883)}}{24}{section.4.1}%
-\contentsline {section}{\numberline {4.2}{Dilthey e gli sviluppi successivi}}{24}{section.4.2}%
-\contentsline {section}{\numberline {4.3}{Weber e la crisi della totalità}}{25}{section.4.3}%
-\contentsline {section}{\numberline {4.4}{Weber e la razionalità formale}}{27}{section.4.4}%
-\contentsline {section}{\numberline {4.5}{Weber e il processo di razionalizzazione}}{28}{section.4.5}%
+\contentsline {chapter}{\numberline {3}{Nietzsche e le conseguenze radicali della dissoluzione dell'idealismo}}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}{Nichilismo ed eterno ritorno}}{17}{section.3.1}%
+\contentsline {section}{\numberline {3.2}{La volontà di potenza}}{18}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}{La critica della conoscenza}}{18}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}{Congedo della metafisica}}{19}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}{La conoscenza come produzione linguistica e interpretazione}}{20}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}{La riduzione della razionalità a volontà}}{21}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}{Oltre il nichilismo}}{21}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}{La critica del soggetto e la trasformazione del trascendentale}}{22}{subsection.3.2.6}%
+\contentsline {chapter}{\numberline {4}{Lo storicismo tedesco}}{24}{chapter.4}%
+\contentsline {section}{\numberline {4.1}{Dilthey e L'introduzione alle scienze dello spirito (1883)}}{25}{section.4.1}%
+\contentsline {section}{\numberline {4.2}{Dilthey e gli sviluppi successivi}}{25}{section.4.2}%
+\contentsline {section}{\numberline {4.3}{Weber e la crisi della totalità}}{26}{section.4.3}%
+\contentsline {section}{\numberline {4.4}{Weber e la razionalità formale}}{28}{section.4.4}%
+\contentsline {section}{\numberline {4.5}{Weber e il processo di razionalizzazione}}{29}{section.4.5}%
