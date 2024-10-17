@@ -26,3 +26,5 @@
 \contentsline {section}{\numberline {4.5}{Weber e il processo di razionalizzazione}}{30}{section.4.5}%
 \contentsline {part}{\numberline {ii}{Il mutamento di paradigma della filosofia contemporanea: dal soggetto al linguaggio}}{32}{part.2}%
 \contentsline {chapter}{\numberline {5}{Il pensiero fenomenologico-ermeneutico}}{34}{chapter.5}%
+\contentsline {section}{\numberline {5.1}{Gli inizi dell'ermeneutica}}{34}{section.5.1}%
+\contentsline {section}{\numberline {5.2}{La fenomenologia husserliana}}{35}{section.5.2}%
