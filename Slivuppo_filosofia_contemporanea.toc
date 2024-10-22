@@ -30,3 +30,4 @@
 \contentsline {section}{\numberline {5.2}{La fenomenologia husserliana}}{35}{section.5.2}%
 \contentsline {subsection}{\numberline {5.2.1}{Dagli oggetti ai fenomeni}}{35}{subsection.5.2.1}%
 \contentsline {subsection}{\numberline {5.2.2}{La fenomenologia come scienza eidetica}}{37}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}{Il soggetto trascendentale}}{39}{subsection.5.2.3}%

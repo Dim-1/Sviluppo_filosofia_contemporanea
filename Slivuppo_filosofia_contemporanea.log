@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  20 OCT 2024 17:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  22 OCT 2024 21:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -780,16 +780,16 @@ Overfull \hbox (2.63283pt too wide) in paragraph at lines 215--229
 T1/pplj/b/n/12 una ra-di-ca-le "epo-
  []
 
-[37]) [38] (./Slivuppo_filosofia_contemporanea.aux)
+[37] [38] [39]) [40] (./Slivuppo_filosofia_contemporanea.aux)
 Package rerunfilecheck Info: File `Slivuppo_filosofia_contemporanea.out' has no
 t changed.
-(rerunfilecheck)             Checksum: 32932815F01730FA8FEEF6E8F5C9B73C;8321.
+(rerunfilecheck)             Checksum: 41786FBDC5A20ECB2806431803855B16;8552.
  ) 
 Here is how much of TeX's memory you used:
- 17029 strings out of 476091
- 310613 string characters out of 5794081
+ 17035 strings out of 476091
+ 310689 string characters out of 5794081
  1865330 words of memory out of 5000000
- 37057 multiletter control sequences out of 15000+600000
+ 37060 multiletter control sequences out of 15000+600000
  602704 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,24n,126p,1314b,718s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -803,11 +803,11 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/nowacki/iwona/iwonab.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/nowacki/iwona/iwonar.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on Slivuppo_filosofia_contemporanea.pdf (39 pages, 242140 bytes)
+Output written on Slivuppo_filosofia_contemporanea.pdf (41 pages, 245719 bytes)
 .
 PDF statistics:
- 392 PDF objects out of 1000 (max. 8388607)
- 329 compressed objects within 4 object streams
- 75 named destinations out of 1000 (max. 500000)
- 21225 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 405 PDF objects out of 1000 (max. 8388607)
+ 340 compressed objects within 4 object streams
+ 78 named destinations out of 1000 (max. 500000)
+ 21233 words of extra memory for PDF output out of 24883 (max. 10000000)
 
