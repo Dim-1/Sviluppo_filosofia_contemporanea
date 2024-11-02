@@ -40,3 +40,5 @@
 \contentsline {subsection}{\numberline {5.3.4}{La tematizzazione dell'intersoggettività}}{48}{subsection.5.3.4}%
 \contentsline {subsection}{\numberline {5.3.5}{Verso l'ermeneutica e l'incontro con il linguaggio}}{49}{subsection.5.3.5}%
 \contentsline {subsection}{\numberline {5.3.6}{La critica heideggeriana della società}}{50}{subsection.5.3.6}%
+\contentsline {section}{\numberline {5.4}{Il secondo Heidegger}}{51}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}{Ontologia e linguaggio}}{51}{subsection.5.4.1}%
