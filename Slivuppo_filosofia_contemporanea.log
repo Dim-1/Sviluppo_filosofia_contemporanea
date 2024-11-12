@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  6 NOV 2024 20:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  12 NOV 2024 22:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -776,9 +776,9 @@ Capitolo 5.
 [34] [35
 
 ] [36] [37]
-Overfull \hbox (2.63283pt too wide) in paragraph at lines 215--229
+Overfull \hbox (1.64882pt too wide) in paragraph at lines 215--229
 []\T1/pplj/m/n/12 Alla ba-se del-l'at-teg-gia-men-to fe-no-me-no-lo-gi-co sta \
-T1/pplj/b/n/12 una ra-di-ca-le "epo-
+T1/pplj/b/n/12 una ra-di-ca-le "\T1/pplj/b/it/12 epo-
  []
 
 [38] [39] [40] [41]
@@ -805,22 +805,22 @@ Overfull \hbox (2.61195pt too wide) in paragraph at lines 1011--1021
 so-pra de-scrit-to: \T1/pplj/b/n/12 non
  []
 
-[52] [53] [54]) [55] (./Slivuppo_filosofia_contemporanea.aux)
+[52] [53] [54] [55] [56]) [57] (./Slivuppo_filosofia_contemporanea.aux)
 Package rerunfilecheck Info: File `Slivuppo_filosofia_contemporanea.out' has no
 t changed.
-(rerunfilecheck)             Checksum: CA2115962863ACBC0271D264504ADE86;12382.
+(rerunfilecheck)             Checksum: 009C9BAB346AAA395E0D8E93B2466E48;12739.
  ) 
 Here is how much of TeX's memory you used:
- 17113 strings out of 476091
- 311692 string characters out of 5794081
+ 17121 strings out of 476091
+ 311802 string characters out of 5794081
  1866330 words of memory out of 5000000
- 37097 multiletter control sequences out of 15000+600000
+ 37101 multiletter control sequences out of 15000+600000
  611398 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,24n,126p,1314b,718s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
-e/texmf-dist/fonts/enc/dvips/iwona/ec-iwona.enc}{/usr/share/texlive/texmf-dist/
-fonts/enc/dvips/iwona/ec-iwona-sc.enc}</usr/share/texlive/texmf-dist/fonts/type
+ 123i,24n,126p,1315b,718s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/iwona/ec-iwona.enc}{/usr/share
+/texlive/texmf-dist/fonts/enc/dvips/iwona/ec-iwona-sc.enc}{/usr/share/texlive/t
+exmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/euler/eurb10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 fpl/fplbj8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrc8a.p
@@ -831,11 +831,11 @@ t/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palat
 ino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.
 pfb>
-Output written on Slivuppo_filosofia_contemporanea.pdf (56 pages, 320203 bytes)
+Output written on Slivuppo_filosofia_contemporanea.pdf (58 pages, 339436 bytes)
 .
 PDF statistics:
- 564 PDF objects out of 1000 (max. 8388607)
- 477 compressed objects within 5 object streams
- 110 named destinations out of 1000 (max. 500000)
- 22881 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 582 PDF objects out of 1000 (max. 8388607)
+ 493 compressed objects within 5 object streams
+ 114 named destinations out of 1000 (max. 500000)
+ 22897 words of extra memory for PDF output out of 24883 (max. 10000000)
 

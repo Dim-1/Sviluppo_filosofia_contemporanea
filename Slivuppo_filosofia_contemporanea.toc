@@ -45,3 +45,5 @@
 \contentsline {subsection}{\numberline {5.4.2}{Metafisica, nichilismo, tecnica}}{53}{subsection.5.4.2}%
 \contentsline {subsection}{\numberline {5.4.3}{L'essere come evento}}{54}{subsection.5.4.3}%
 \contentsline {section}{\numberline {5.5}{Sartre: L'essere e il nulla (1943)}}{55}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}{L'essere}}{55}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}{La coscienza e il nulla}}{56}{subsection.5.5.2}%
