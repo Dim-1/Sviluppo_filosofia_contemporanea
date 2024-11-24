@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  20 NOV 2024 20:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  24 NOV 2024 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -804,13 +804,7 @@ Overfull \hbox (13.44794pt too wide) in paragraph at lines 925--933
 -la pre-comprensione
  []
 
-[50] [51]
-Overfull \hbox (2.61195pt too wide) in paragraph at lines 1011--1021
-\T1/pplj/m/n/12 mes-sa in di-scus-sio-ne del-l'im-pian-to sog-get-ti-vi-sti-co 
-so-pra de-scrit-to: \T1/pplj/b/n/12 non
- []
-
-[52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62]
+[50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62]
 Overfull \hbox (1.16289pt too wide) in paragraph at lines 1552--1552
 |[]\T1/iwona/m/sc/17.28/80ls la ra-di-ca-liz-za-zio-ne del-l'er-me-neu-ti-ca: 
  []
@@ -821,16 +815,20 @@ Overfull \hbox (2.88487pt too wide) in paragraph at lines 1564--1571
  ha nel-l'at-tua-li-tà del parlare-
  []
 
-[63] [64] [65] [66]) [67] (./Slivuppo_filosofia_contemporanea.aux)
+[63] [64] [65] [66]) (./Capitoli/cap6.tex
+Capitolo 6.
+[67]) [68
+
+] (./Slivuppo_filosofia_contemporanea.aux)
 Package rerunfilecheck Info: File `Slivuppo_filosofia_contemporanea.out' has no
 t changed.
-(rerunfilecheck)             Checksum: FEF842453C936191F3920AE1E582CDB4;16228.
+(rerunfilecheck)             Checksum: 771BEDC8C78CA954F85A5CAEDA4A1AC0;16486.
  ) 
 Here is how much of TeX's memory you used:
- 17167 strings out of 476091
- 312434 string characters out of 5794081
+ 17177 strings out of 476091
+ 312586 string characters out of 5794081
  1866330 words of memory out of 5000000
- 37124 multiletter control sequences out of 15000+600000
+ 37129 multiletter control sequences out of 15000+600000
  611398 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,24n,126p,1315b,718s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -847,11 +845,11 @@ t/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palat
 ino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.
 pfb>
-Output written on Slivuppo_filosofia_contemporanea.pdf (68 pages, 369238 bytes)
+Output written on Slivuppo_filosofia_contemporanea.pdf (69 pages, 370440 bytes)
 .
 PDF statistics:
- 694 PDF objects out of 1000 (max. 8388607)
- 594 compressed objects within 6 object streams
- 137 named destinations out of 1000 (max. 500000)
- 23001 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 705 PDF objects out of 1000 (max. 8388607)
+ 603 compressed objects within 7 object streams
+ 139 named destinations out of 1000 (max. 500000)
+ 23009 words of extra memory for PDF output out of 24883 (max. 10000000)
 
