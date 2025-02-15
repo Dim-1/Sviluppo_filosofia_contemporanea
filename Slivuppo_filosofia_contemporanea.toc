@@ -61,3 +61,5 @@
 \contentsline {subsection}{\numberline {5.7.4}{La critica della metafisica}}{66}{subsection.5.7.4}%
 \contentsline {subsection}{\numberline {5.7.5}{La decostruzione}}{67}{subsection.5.7.5}%
 \contentsline {chapter}{\numberline {6}{Il pensiero neopositivistico-analitico}}{69}{chapter.6}%
+\contentsline {section}{\numberline {6.1}{Wittgenstein: Tractatus logico-philosophicus (1921)}}{70}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}{"Il mondo è tutto ciò che accade"}}{70}{subsection.6.1.1}%
