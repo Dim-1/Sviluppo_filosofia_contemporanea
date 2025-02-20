@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.11.24)  15 FEB 2025 12:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.11.24)  20 FEB 2025 05:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -714,6 +714,12 @@ Overfull \hbox (15.81061pt too wide) in paragraph at lines 54--54
 e []  
  []
 
+
+Overfull \hbox (11.0398pt too wide) in paragraph at lines 64--64
+ [][] []\T1/pplj/m/n/12 Wittgenstein: Trac-ta-tus logico-philosophicus (1921) [
+]  
+ []
+
 )
 \tf@toc=\write4
 \openout4 = `Slivuppo_filosofia_contemporanea.toc'.
@@ -824,28 +830,16 @@ Overfull \hbox (83.07863pt too wide) in paragraph at lines 88--88
 |[]\T1/iwona/m/sc/17.28/80ls wittgenstein: trac-ta-tus logico-philosophicus 
  []
 
-) [70] (./Slivuppo_filosofia_contemporanea.aux
-
-Package mparhack Warning: Marginpars may have changed.
-(mparhack)                Rerun to get them right.
-
-)
-
-Package rerunfilecheck Warning: File `Slivuppo_filosofia_contemporanea.out' has
- changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Slivuppo_filosofia_contemporanea.ou
-t':
-(rerunfilecheck)             Before: E709ED9A976C96590356229AD8FA8075;16486
-(rerunfilecheck)             After:  F05B2D618689E3CD36497261977333E4;17118.
+[70] [71] [72]) [73] (./Slivuppo_filosofia_contemporanea.aux)
+Package rerunfilecheck Info: File `Slivuppo_filosofia_contemporanea.out' has no
+t changed.
+(rerunfilecheck)             Checksum: 076B6FE7CC92AB2CAA002D4D3541C778;17507.
  ) 
 Here is how much of TeX's memory you used:
- 17183 strings out of 476091
- 312650 string characters out of 5794080
+ 17195 strings out of 476091
+ 312812 string characters out of 5794080
  1866330 words of memory out of 5000000
- 37131 multiletter control sequences out of 15000+600000
+ 37138 multiletter control sequences out of 15000+600000
  611398 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,24n,126p,1315b,720s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -862,11 +856,11 @@ t/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palat
 ino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.
 pfb>
-Output written on Slivuppo_filosofia_contemporanea.pdf (71 pages, 377784 bytes)
+Output written on Slivuppo_filosofia_contemporanea.pdf (74 pages, 385332 bytes)
 .
 PDF statistics:
- 715 PDF objects out of 1000 (max. 8388607)
- 611 compressed objects within 7 object streams
- 143 named destinations out of 1000 (max. 500000)
- 23009 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 749 PDF objects out of 1000 (max. 8388607)
+ 642 compressed objects within 7 object streams
+ 148 named destinations out of 1000 (max. 500000)
+ 23041 words of extra memory for PDF output out of 24883 (max. 10000000)
 

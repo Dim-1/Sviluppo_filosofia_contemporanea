@@ -63,3 +63,5 @@
 \contentsline {chapter}{\numberline {6}{Il pensiero neopositivistico-analitico}}{69}{chapter.6}%
 \contentsline {section}{\numberline {6.1}{Wittgenstein: Tractatus logico-philosophicus (1921)}}{70}{section.6.1}%
 \contentsline {subsection}{\numberline {6.1.1}{"Il mondo è tutto ciò che accade"}}{70}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}{Le proposizioni}}{71}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}{Il piano trascendentale}}{72}{subsection.6.1.3}%
